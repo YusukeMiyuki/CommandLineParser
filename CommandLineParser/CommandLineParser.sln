@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLineParser", "CommandLineParser\CommandLineParser.csproj", "{8C681450-A100-41FB-A1F7-50F852B27573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C681450-A100-41FB-A1F7-50F852B27573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C681450-A100-41FB-A1F7-50F852B27573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C681450-A100-41FB-A1F7-50F852B27573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C681450-A100-41FB-A1F7-50F852B27573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DE05DD7-2A02-4200-A35C-F576A1B25BE0}
+	EndGlobalSection
+EndGlobal
